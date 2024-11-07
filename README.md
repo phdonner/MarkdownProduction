@@ -145,4 +145,10 @@ Check out details of PowerShell Markdown automation by delving into the [PowerSh
 [PowerShell Documentation](https://learn.microsoft.com/en-us/powershell/)
 at learn.microsoft.com.
 
+### 📚 References on PowerShell
+
+_Windows PowerShell Cookbook 2e_  
+by Lee Holmes, 2010.
+
+
 <!-- Add a list of the best tutorials -->
