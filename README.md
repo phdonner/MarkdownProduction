@@ -1,6 +1,6 @@
 ## Moving from theory to practice
 
-This MarkdownProduction repository is part of the NOSTERIIHI GitHub effort. [A guide to Markup editing](https://github.com/phdonner/Markdown/) for rural developers has been drafted. Here we are concerned with the practical task of editing, rendering and publishing those pages.
+This MarkdownProduction repository is part of the NOSTERIIHI effort at GitHub. [A guide to Markup editing](https://github.com/phdonner/Markdown/) for rural developers has been drafted. Here we are concerned with the practical task of editing, rendering and publishing those pages.
 
 This is a personal undertaking which contributes to the NOSTERIIHI smart rural development project. It could be important to state an example of how bottom-up oriented, open-source, voluntary collaboration can be a smart concept which wins over passivating, profit-based and top-down controlled work. 
 
