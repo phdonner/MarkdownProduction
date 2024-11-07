@@ -8,7 +8,7 @@ I would certainly like to collaborate with other developers, who are willing to 
 
 ---
 
-## Task #1: 'How can Markdown pages be rendered and published on the World Wide Web?'
+## How can Markdown pages be rendered and published on the World Wide Web?
 
 Software development is in itself a conceptua activity. At best, it provides abstract tools which can facilitate production processes.  The information society should provide us with productive tools, which should improve our life quality. But they should do so without resorting to artificial income logic. 
 
